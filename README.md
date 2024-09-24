@@ -281,3 +281,6 @@ Merge con master de un fork
 
 git fetch upstream
 git merge upstream/master
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
