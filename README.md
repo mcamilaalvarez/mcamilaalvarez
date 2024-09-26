@@ -16,6 +16,6 @@ With the email alvarezccamila25@gmail.com  you can contact me, I'm so interested
 
 ## Hobbies
 - Dancing
-- Play video games
+- Playing video games
 - Reading
-- Go for walks 
+- Going for walks 
