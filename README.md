@@ -13,12 +13,6 @@ With the email alvarezccamila25@gmail.com or the profile https://www.linkedin.co
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies like Java, PHP, etc. 
 
-## Hobbies
-- Dancing
-- Playing video games
-- Reading
-- Going for walks 
-
 ## Languages
 - English (Intermediate)
 - Spanish (Advanced) 
